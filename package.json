@@ -1,6 +1,6 @@
 {
-  "homepage": "https://hotiislam.github.io/PicaWebsite",
-  "name": "PicaWebsite",
+  "homepage": "https://hotiislam.github.io/PicaWebsite/",
+  "name": "react-website-tut",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
