@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PicaWebsite/static/css/main.4dc5ba46.css",
+    "main.js": "/PicaWebsite/static/js/main.0c128351.js",
+    "static/js/787.46fb8f97.chunk.js": "/PicaWebsite/static/js/787.46fb8f97.chunk.js",
+    "static/media/pizzaLeft.jpg": "/PicaWebsite/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/PicaWebsite/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizza.jpeg": "/PicaWebsite/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/multiplePizzas.jpeg": "/PicaWebsite/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/pizzaLogo.png": "/PicaWebsite/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "static/media/expensive.jpg": "/PicaWebsite/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/PicaWebsite/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/PicaWebsite/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/margherita.jpg": "/PicaWebsite/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/OurspecialPizza.jpg": "/PicaWebsite/static/media/OurspecialPizza.425951cb0e484775fd4c.jpg",
+    "index.html": "/PicaWebsite/index.html",
+    "main.4dc5ba46.css.map": "/PicaWebsite/static/css/main.4dc5ba46.css.map",
+    "main.0c128351.js.map": "/PicaWebsite/static/js/main.0c128351.js.map",
+    "787.46fb8f97.chunk.js.map": "/PicaWebsite/static/js/787.46fb8f97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dc5ba46.css",
+    "static/js/main.0c128351.js"
+  ]
+}
